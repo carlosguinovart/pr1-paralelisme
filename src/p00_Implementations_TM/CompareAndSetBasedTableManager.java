@@ -12,6 +12,7 @@ public class CompareAndSetBasedTableManager extends TableManager {
 	public CompareAndSetBasedTableManager(int numCells, int numWriters) {
 		super(numCells, numWriters);
 		/* COMPLETE */
+		abLock = new AtomicBoolean(false);
 		
 	}
 
@@ -23,6 +24,87 @@ public class CompareAndSetBasedTableManager extends TableManager {
 
 	private void fixedDelay (int ms) {
 		try {Thread.sleep(ms);} catch (Exception e) {}
+	}
+
+	@Override
+	public boolean blockCell(int numCell, int writerId) {
+		// TODO Auto-generated method stub
+		while(true) {
+			while(!abLock.compareAndSet(false, true)) {
+				//fixedDelay(1);
+				return false;
+			}
+			if (inspectionTime) {
+				abLock.set(false);
+				return false;
+			}
+
+            if ( (numCell & 1) != (writerId & 1) ) {
+            	abLock.set(false);
+            	return false;
+            }
+
+            if (blockers[numCell] > 0) {
+            	abLock.set(false);
+            	return false;
+            }
+
+            if (Math.abs(blockers[numCell]) == writerId) {
+            	abLock.set(false);
+            	return false;
+            }
+
+            // Block it
+            blockers[numCell] = writerId;
+            abLock.set(false);
+            return true;
+		}
+		
+	}
+
+	@Override
+	public void unBlockCell(int numCell, int writerId) {
+		// TODO Auto-generated method stub
+		while(!abLock.compareAndSet(false, true)) {
+			fixedDelay(1);
+		}
+		if (blockers[numCell] == writerId) {
+            blockers[numCell] = -writerId;
+        }
+		abLock.set(false);
+		
+	}
+
+	@Override
+	public void startInspection(int inspectorId) {
+		// TODO Auto-generated method stub
+		while(true) {
+			while (!abLock.compareAndSet(false, true)) {
+				fixedDelay(1);
+			}
+			if(inspectionTime && ((inspectorId & 1) == currentInspectorParity) && checkAllUnblocked()){
+				return;
+			}
+	        abLock.set(false);
+		}
+	}
+
+	@Override
+	public void endInspection() {
+		// TODO Auto-generated method stub
+		
+		inspectionTime = false;
+        currentInspectorParity = (currentInspectorParity + 1) % 2;
+        abLock.set(false);
+	}
+	
+	private boolean checkAllUnblocked() {
+		for(int i = 0; i<blockers.length; i++) {
+			if(blockers[i]>0) {
+				return false;
+			}
+		}
+		return true;
 	}
 	
 }

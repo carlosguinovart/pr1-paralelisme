@@ -1,1000 +1,1021 @@
-ONE cannot write cell4
-ONE cannot write cell4
-ONE cannot write cell2
-ONE cannot write cell4
-ONE cannot write cell4
-ONE cannot write cell4
-ONE cannot write cell3
-ONE cannot write cell2
-ONE cannot write cell9
-ONE cannot write cell6
-ONE cannot write cell8
-ONE cannot write cell8
-ONE cannot write cell1
-ONE cannot write cell9
-ONE cannot write cell8
-ONE cannot write cell1
-ONE cannot write cell4
-ONE cannot write cell1
-ONE cannot write cell2
-ONE cannot write cell0
-ONE cannot write cell4
-ONE cannot write cell0
-ONE cannot write cell5
-ONE cannot write cell4
-ONE cannot write cell0
-ONE cannot write cell0
-ONE cannot write cell7
-ONE cannot write cell6
-ONE cannot write cell1
-ONE cannot write cell7
-ONE cannot write cell2
-ONE cannot write cell5
-ONE cannot write cell2
-ONE cannot write cell5
-ONE cannot write cell0
-ONE cannot write cell5
-ONE cannot write cell6
-ONE cannot write cell5
-ONE cannot write cell7
-ONE cannot write cell1
-ONE cannot write cell9
-ONE cannot write cell0
-ONE cannot write cell5
-ONE cannot write cell1
-ONE cannot write cell8
-ONE cannot write cell1
-ONE cannot write cell1
-ONE cannot write cell7
-ONE cannot write cell0
-ONE cannot write cell3
-ONE cannot write cell6
-ONE cannot write cell6
-ONE cannot write cell9
-ONE cannot write cell3
-ONE cannot write cell3
-ONE cannot write cell8
-ONE cannot write cell0
-ONE cannot write cell8
-ONE cannot write cell6
-ONE cannot write cell1
-ONE cannot write cell9
-ONE cannot write cell0
-ONE cannot write cell7
-ONE cannot write cell7
-ONE cannot write cell3
-ONE cannot write cell9
-ONE cannot write cell7
-ONE cannot write cell9
-ONE cannot write cell8
-ONE cannot write cell0
-ONE cannot write cell5
-ONE cannot write cell7
-ONE cannot write cell4
-ONE cannot write cell8
-ONE cannot write cell5
-ONE cannot write cell4
-ONE cannot write cell0
-ONE cannot write cell3
-ONE cannot write cell5
-ONE cannot write cell1
-ONE cannot write cell3
-ONE cannot write cell4
-ONE cannot write cell2
-ONE cannot write cell2
-ONE cannot write cell3
-ONE cannot write cell0
-ONE cannot write cell8
-ONE cannot write cell2
-ONE cannot write cell4
-ONE cannot write cell5
-ONE cannot write cell6
-ONE cannot write cell2
-ONE cannot write cell5
-ONE cannot write cell2
-ONE cannot write cell9
-ONE cannot write cell6
-ONE cannot write cell4
-ONE cannot write cell6
-ONE cannot write cell0
-ONE cannot write cell5
-ONE cannot write cell3
-ONE cannot write cell1
-ONE cannot write cell3
-ONE cannot write cell1
-ONE cannot write cell2
-ONE cannot write cell7
-ONE cannot write cell3
-ONE cannot write cell2
-ONE cannot write cell4
-ONE cannot write cell5
-ONE cannot write cell6
-ONE cannot write cell7
-ONE cannot write cell6
-ONE cannot write cell8
-ONE cannot write cell4
-ONE cannot write cell9
-ONE cannot write cell6
-ONE cannot write cell9
-ONE cannot write cell0
-ONE cannot write cell8
-ONE cannot write cell5
-ONE cannot write cell4
-ONE cannot write cell9
-ONE cannot write cell4
-ONE cannot write cell9
-ONE cannot write cell3
-ONE cannot write cell1
-ONE cannot write cell9
-ONE cannot write cell4
-ONE cannot write cell1
-ONE cannot write cell1
-ONE cannot write cell5
-ONE cannot write cell3
-ONE cannot write cell4
-ONE cannot write cell3
-ONE cannot write cell3
-ONE cannot write cell8
-ONE cannot write cell9
-ONE cannot write cell7
-ONE cannot write cell1
-ONE cannot write cell0
-ONE cannot write cell1
-ONE cannot write cell1
-ONE cannot write cell2
-ONE cannot write cell7
-ONE cannot write cell1
-ONE cannot write cell5
-ONE cannot write cell5
-ONE cannot write cell1
-ONE cannot write cell7
-ONE cannot write cell3
-ONE cannot write cell2
-ONE cannot write cell2
-ONE cannot write cell8
-ONE cannot write cell2
-ONE cannot write cell6
-ONE cannot write cell0
-ONE cannot write cell6
-ONE cannot write cell5
-ONE cannot write cell8
-ONE cannot write cell6
-ONE cannot write cell8
-ONE cannot write cell5
-ONE cannot write cell3
-ONE cannot write cell8
-ONE cannot write cell1
-ONE cannot write cell9
-ONE cannot write cell3
-ONE cannot write cell7
-ONE cannot write cell7
-ONE cannot write cell0
-ONE cannot write cell0
-ONE cannot write cell0
-ONE cannot write cell9
-ONE cannot write cell6
-ONE cannot write cell0
-ONE cannot write cell7
-ONE cannot write cell8
-ONE cannot write cell4
-ONE cannot write cell9
-ONE cannot write cell5
-ONE cannot write cell7
-ONE cannot write cell9
-ONE cannot write cell4
-ONE cannot write cell9
-ONE cannot write cell9
-ONE cannot write cell8
-ONE cannot write cell7
-ONE cannot write cell7
-ONE cannot write cell8
-ONE cannot write cell4
-ONE cannot write cell7
-ONE cannot write cell4
-ONE cannot write cell3
-ONE cannot write cell4
-ONE cannot write cell4
-ONE cannot write cell6
-ONE cannot write cell4
-ONE cannot write cell0
-ONE cannot write cell5
-ONE cannot write cell9
-ONE cannot write cell1
-ONE cannot write cell4
-ONE cannot write cell5
-ONE cannot write cell2
-ONE cannot write cell0
-ONE cannot write cell1
-ONE cannot write cell2
-ONE cannot write cell4
-ONE cannot write cell0
-ONE cannot write cell4
-ONE cannot write cell2
-ONE cannot write cell1
-ONE cannot write cell1
-ONE cannot write cell9
-ONE cannot write cell2
-ONE cannot write cell5
-ONE cannot write cell9
-ONE cannot write cell8
-ONE cannot write cell0
-ONE cannot write cell6
-ONE cannot write cell5
-ONE cannot write cell7
-ONE cannot write cell8
-ONE cannot write cell6
-ONE cannot write cell7
-ONE cannot write cell5
-ONE cannot write cell3
-ONE cannot write cell4
-ONE cannot write cell8
-ONE cannot write cell6
-ONE cannot write cell1
-ONE cannot write cell8
-ONE cannot write cell0
-ONE cannot write cell4
-ONE cannot write cell9
-ONE cannot write cell6
-ONE cannot write cell2
-ONE cannot write cell2
-ONE cannot write cell3
-ONE cannot write cell2
-ONE cannot write cell3
-ONE cannot write cell6
-ONE cannot write cell1
-ONE cannot write cell7
-ONE cannot write cell7
-ONE cannot write cell3
-ONE cannot write cell4
-ONE cannot write cell5
-ONE cannot write cell1
-ONE cannot write cell3
-ONE cannot write cell5
-ONE cannot write cell9
-ONE cannot write cell9
-ONE cannot write cell3
-ONE cannot write cell8
-ONE cannot write cell6
-ONE cannot write cell7
-ONE cannot write cell9
-ONE cannot write cell9
-ONE cannot write cell4
-ONE cannot write cell6
-ONE cannot write cell1
-ONE cannot write cell7
-ONE cannot write cell2
-ONE cannot write cell7
-ONE cannot write cell7
-ONE cannot write cell1
-ONE cannot write cell0
-ONE cannot write cell3
-ONE cannot write cell5
-ONE cannot write cell7
-ONE cannot write cell6
-ONE cannot write cell0
-ONE cannot write cell8
-ONE cannot write cell7
-ONE cannot write cell8
-ONE cannot write cell4
-ONE cannot write cell6
-ONE cannot write cell4
-ONE cannot write cell9
-ONE cannot write cell0
-ONE cannot write cell9
-ONE cannot write cell9
-ONE cannot write cell7
-ONE cannot write cell6
-ONE cannot write cell4
-ONE cannot write cell3
-ONE cannot write cell5
-ONE cannot write cell3
-ONE cannot write cell0
-ONE cannot write cell6
-ONE cannot write cell5
-ONE cannot write cell2
-ONE cannot write cell6
-ONE cannot write cell5
-ONE cannot write cell2
-ONE cannot write cell8
-ONE cannot write cell3
-ONE cannot write cell0
-ONE cannot write cell2
-ONE cannot write cell4
-ONE cannot write cell3
-ONE cannot write cell0
-ONE cannot write cell4
-ONE cannot write cell8
-ONE cannot write cell1
-ONE cannot write cell9
-ONE cannot write cell0
-ONE cannot write cell2
-ONE cannot write cell8
-ONE cannot write cell4
-ONE cannot write cell8
-ONE cannot write cell1
-ONE cannot write cell3
-ONE cannot write cell6
-ONE cannot write cell8
-ONE cannot write cell5
-ONE cannot write cell8
-ONE cannot write cell8
-ONE cannot write cell2
-ONE cannot write cell9
-ONE cannot write cell2
-ONE cannot write cell1
-ONE cannot write cell9
-ONE cannot write cell2
-ONE cannot write cell5
-ONE cannot write cell5
-ONE cannot write cell3
-ONE cannot write cell3
-ONE cannot write cell9
-ONE cannot write cell3
-ONE cannot write cell9
-ONE cannot write cell1
-ONE cannot write cell9
-ONE cannot write cell8
-ONE cannot write cell7
-ONE cannot write cell9
-ONE cannot write cell2
-ONE cannot write cell6
-ONE cannot write cell7
-ONE cannot write cell9
-ONE cannot write cell1
-ONE cannot write cell8
-ONE cannot write cell1
-ONE cannot write cell2
-ONE cannot write cell2
-ONE cannot write cell5
-ONE cannot write cell0
-ONE cannot write cell3
-ONE cannot write cell9
-ONE cannot write cell5
-ONE cannot write cell1
-ONE cannot write cell4
-ONE cannot write cell1
-ONE cannot write cell0
-ONE cannot write cell8
-ONE cannot write cell9
-ONE cannot write cell4
-ONE cannot write cell1
-ONE cannot write cell7
-ONE cannot write cell7
-ONE cannot write cell0
-ONE cannot write cell7
-ONE cannot write cell5
-ONE cannot write cell8
-ONE cannot write cell5
-ONE cannot write cell5
-ONE cannot write cell7
-ONE cannot write cell1
-ONE cannot write cell9
-ONE cannot write cell1
-ONE cannot write cell7
-ONE cannot write cell8
-ONE cannot write cell2
-ONE cannot write cell4
-ONE cannot write cell5
-ONE cannot write cell1
-ONE cannot write cell4
-ONE cannot write cell2
-ONE cannot write cell7
-ONE cannot write cell4
-ONE cannot write cell0
-ONE cannot write cell4
-ONE cannot write cell2
-ONE cannot write cell7
-ONE cannot write cell5
-ONE cannot write cell2
-ONE cannot write cell1
-ONE cannot write cell4
-ONE cannot write cell6
-ONE cannot write cell0
-ONE cannot write cell8
-ONE cannot write cell9
-ONE cannot write cell3
-ONE cannot write cell1
-ONE cannot write cell2
-ONE cannot write cell1
-ONE cannot write cell6
-ONE cannot write cell7
-ONE cannot write cell3
-ONE cannot write cell5
-ONE cannot write cell3
-ONE cannot write cell7
-ONE cannot write cell9
-ONE cannot write cell4
-ONE cannot write cell7
-ONE cannot write cell3
-ONE cannot write cell7
-ONE cannot write cell3
-ONE cannot write cell6
-ONE cannot write cell0
-ONE cannot write cell3
-ONE cannot write cell0
-ONE cannot write cell9
-ONE cannot write cell2
-ONE cannot write cell6
-ONE cannot write cell5
-ONE cannot write cell4
-ONE cannot write cell3
-ONE cannot write cell5
-ONE cannot write cell4
-ONE cannot write cell9
-ONE cannot write cell1
-ONE cannot write cell0
-ONE cannot write cell3
-ONE cannot write cell0
-ONE cannot write cell6
-ONE cannot write cell3
-ONE cannot write cell6
-ONE cannot write cell9
-ONE cannot write cell8
-ONE cannot write cell6
-ONE cannot write cell2
-ONE cannot write cell9
-ONE cannot write cell7
-ONE cannot write cell9
-ONE cannot write cell1
-ONE cannot write cell0
-ONE cannot write cell2
-ONE cannot write cell6
-ONE cannot write cell1
-ONE cannot write cell4
-ONE cannot write cell3
-ONE cannot write cell6
-ONE cannot write cell4
-ONE cannot write cell8
-ONE cannot write cell9
-ONE cannot write cell1
-ONE cannot write cell0
-ONE cannot write cell8
-ONE cannot write cell0
-ONE cannot write cell6
-ONE cannot write cell8
-ONE cannot write cell5
-ONE cannot write cell6
-ONE cannot write cell2
-ONE cannot write cell8
-ONE cannot write cell9
-ONE cannot write cell9
-ONE cannot write cell0
-ONE cannot write cell7
-ONE cannot write cell3
-ONE cannot write cell2
-ONE cannot write cell4
-ONE cannot write cell4
-ONE cannot write cell3
-ONE cannot write cell0
-ONE cannot write cell0
-ONE cannot write cell9
-ONE cannot write cell3
-ONE cannot write cell9
-ONE cannot write cell5
-ONE cannot write cell5
-ONE cannot write cell1
-ONE cannot write cell9
-ONE cannot write cell1
-ONE cannot write cell6
-ONE cannot write cell4
-ONE cannot write cell6
-ONE cannot write cell6
-ONE cannot write cell8
-ONE cannot write cell5
-ONE cannot write cell6
-ONE cannot write cell9
-ONE cannot write cell3
-ONE cannot write cell7
-ONE cannot write cell0
-ONE cannot write cell1
-ONE cannot write cell5
-ONE cannot write cell8
-ONE cannot write cell6
-ONE cannot write cell2
-ONE cannot write cell4
-ONE cannot write cell8
-ONE cannot write cell5
-ONE cannot write cell6
-ONE cannot write cell8
-ONE cannot write cell6
-ONE cannot write cell7
-ONE cannot write cell8
-ONE cannot write cell5
-ONE cannot write cell2
-ONE cannot write cell5
-ONE cannot write cell2
-ONE cannot write cell7
-ONE cannot write cell8
-ONE cannot write cell5
-ONE cannot write cell6
-ONE cannot write cell8
-ONE cannot write cell9
-ONE cannot write cell9
-ONE cannot write cell0
-ONE cannot write cell0
-ONE cannot write cell7
-ONE cannot write cell0
-ONE cannot write cell0
-ONE cannot write cell9
-ONE cannot write cell7
-ONE cannot write cell1
-ONE cannot write cell7
-ONE cannot write cell0
-ONE cannot write cell2
-ONE cannot write cell0
-ONE cannot write cell6
-ONE cannot write cell9
-ONE cannot write cell6
-ONE cannot write cell0
-ONE cannot write cell7
-ONE cannot write cell0
-ONE cannot write cell7
-ONE cannot write cell7
-ONE cannot write cell7
-ONE cannot write cell3
-ONE cannot write cell6
-ONE cannot write cell2
-ONE cannot write cell4
-ONE cannot write cell2
-ONE cannot write cell3
-ONE cannot write cell4
-ONE cannot write cell1
-ONE cannot write cell5
-ONE cannot write cell9
-ONE cannot write cell0
-ONE cannot write cell3
-ONE cannot write cell5
-ONE cannot write cell0
-ONE cannot write cell1
-ONE cannot write cell8
-ONE cannot write cell7
-ONE cannot write cell9
-ONE cannot write cell9
-ONE cannot write cell2
-ONE cannot write cell9
-ONE cannot write cell1
-ONE cannot write cell7
-ONE cannot write cell2
-ONE cannot write cell6
-ONE cannot write cell4
-ONE cannot write cell8
-ONE cannot write cell2
-ONE cannot write cell8
-ONE cannot write cell2
-ONE cannot write cell4
-ONE cannot write cell6
-ONE cannot write cell6
-ONE cannot write cell6
-ONE cannot write cell6
-ONE cannot write cell0
-ONE cannot write cell3
-ONE cannot write cell6
-ONE cannot write cell7
-ONE cannot write cell0
-ONE cannot write cell6
-ONE cannot write cell7
-ONE cannot write cell9
-ONE cannot write cell4
-ONE cannot write cell5
-ONE cannot write cell0
-ONE cannot write cell4
-ONE cannot write cell5
-ONE cannot write cell1
-ONE cannot write cell1
-ONE cannot write cell3
-ONE cannot write cell7
-ONE cannot write cell5
-ONE cannot write cell7
-ONE cannot write cell4
-ONE cannot write cell6
-ONE cannot write cell5
-ONE cannot write cell4
-ONE cannot write cell1
-ONE cannot write cell4
-ONE cannot write cell2
-ONE cannot write cell8
-ONE cannot write cell7
-ONE cannot write cell3
-ONE cannot write cell9
-ONE cannot write cell4
-ONE cannot write cell4
-ONE cannot write cell4
-ONE cannot write cell4
-ONE cannot write cell9
-ONE cannot write cell7
-ONE cannot write cell5
-ONE cannot write cell9
-ONE cannot write cell1
-ONE cannot write cell9
-ONE cannot write cell4
-ONE cannot write cell1
-ONE cannot write cell3
-ONE cannot write cell4
-ONE cannot write cell8
-ONE cannot write cell5
-ONE cannot write cell8
-ONE cannot write cell5
-ONE cannot write cell4
-ONE cannot write cell9
-ONE cannot write cell3
-ONE cannot write cell3
-ONE cannot write cell9
-ONE cannot write cell2
-ONE cannot write cell0
-ONE cannot write cell4
-ONE cannot write cell9
-ONE cannot write cell4
-ONE cannot write cell2
-ONE cannot write cell5
-ONE cannot write cell3
-ONE cannot write cell3
-ONE cannot write cell6
-ONE cannot write cell4
-ONE cannot write cell7
-ONE cannot write cell4
-ONE cannot write cell8
-ONE cannot write cell9
-ONE cannot write cell7
-ONE cannot write cell4
-ONE cannot write cell5
-ONE cannot write cell0
-ONE cannot write cell2
-ONE cannot write cell6
-ONE cannot write cell8
-ONE cannot write cell4
-ONE cannot write cell4
-ONE cannot write cell9
-ONE cannot write cell8
-ONE cannot write cell0
-ONE cannot write cell6
-ONE cannot write cell9
-ONE cannot write cell3
-ONE cannot write cell9
-ONE cannot write cell9
-ONE cannot write cell8
-ONE cannot write cell8
-ONE cannot write cell5
-ONE cannot write cell0
-ONE cannot write cell6
-ONE cannot write cell9
-ONE cannot write cell1
-ONE cannot write cell1
-ONE cannot write cell7
-ONE cannot write cell2
-ONE cannot write cell5
-ONE cannot write cell1
-ONE cannot write cell8
-ONE cannot write cell7
-ONE cannot write cell8
-ONE cannot write cell0
-ONE cannot write cell6
-ONE cannot write cell0
-ONE cannot write cell9
-ONE cannot write cell7
-ONE cannot write cell6
-ONE cannot write cell1
-ONE cannot write cell9
-ONE cannot write cell3
-ONE cannot write cell8
-ONE cannot write cell3
-ONE cannot write cell2
-ONE cannot write cell2
-ONE cannot write cell3
-ONE cannot write cell3
-ONE cannot write cell9
-ONE cannot write cell6
-ONE cannot write cell3
-ONE cannot write cell2
-ONE cannot write cell4
-ONE cannot write cell9
-ONE cannot write cell8
-ONE cannot write cell1
-ONE cannot write cell9
-ONE cannot write cell0
-ONE cannot write cell0
-ONE cannot write cell0
-ONE cannot write cell3
-ONE cannot write cell5
-ONE cannot write cell8
-ONE cannot write cell7
-ONE cannot write cell6
-ONE cannot write cell4
-ONE cannot write cell4
-ONE cannot write cell2
-ONE cannot write cell7
-ONE cannot write cell2
-ONE cannot write cell9
-ONE cannot write cell2
-ONE cannot write cell8
-ONE cannot write cell7
-ONE cannot write cell7
-ONE cannot write cell0
-ONE cannot write cell5
-ONE cannot write cell0
-ONE cannot write cell8
-ONE cannot write cell1
-ONE cannot write cell6
-ONE cannot write cell2
-ONE cannot write cell9
-ONE cannot write cell7
-ONE cannot write cell8
-ONE cannot write cell2
-ONE cannot write cell6
-ONE cannot write cell2
-ONE cannot write cell6
-ONE cannot write cell7
-ONE cannot write cell9
-ONE cannot write cell9
-ONE cannot write cell6
-ONE cannot write cell5
-ONE cannot write cell9
-ONE cannot write cell2
-ONE cannot write cell1
-ONE cannot write cell5
-ONE cannot write cell8
-ONE cannot write cell1
-ONE cannot write cell4
-ONE cannot write cell8
-ONE cannot write cell0
-ONE cannot write cell4
-ONE cannot write cell2
-ONE cannot write cell5
-ONE cannot write cell8
-ONE cannot write cell5
-ONE cannot write cell3
-ONE cannot write cell5
-ONE cannot write cell3
-ONE cannot write cell0
-ONE cannot write cell8
-ONE cannot write cell9
-ONE cannot write cell5
-ONE cannot write cell8
-ONE cannot write cell7
-ONE cannot write cell6
-ONE cannot write cell0
-ONE cannot write cell0
-ONE cannot write cell6
-ONE cannot write cell4
-ONE cannot write cell9
-ONE cannot write cell5
-ONE cannot write cell0
-ONE cannot write cell7
-ONE cannot write cell9
-ONE cannot write cell0
-ONE cannot write cell4
-ONE cannot write cell7
-ONE cannot write cell0
-ONE cannot write cell0
-ONE cannot write cell7
-ONE cannot write cell1
-ONE cannot write cell4
-ONE cannot write cell6
-ONE cannot write cell5
-ONE cannot write cell5
-ONE cannot write cell0
-ONE cannot write cell4
-ONE cannot write cell0
-ONE cannot write cell2
-ONE cannot write cell7
-ONE cannot write cell3
-ONE cannot write cell7
-ONE cannot write cell9
-ONE cannot write cell0
-ONE cannot write cell1
-ONE cannot write cell4
-ONE cannot write cell8
-ONE cannot write cell7
-ONE cannot write cell8
-ONE cannot write cell6
-ONE cannot write cell2
-ONE cannot write cell3
-ONE cannot write cell0
-ONE cannot write cell3
-ONE cannot write cell2
-ONE cannot write cell2
-ONE cannot write cell8
-ONE cannot write cell2
-ONE cannot write cell2
-ONE cannot write cell1
-ONE cannot write cell7
-ONE cannot write cell3
-ONE cannot write cell4
-ONE cannot write cell1
-ONE cannot write cell0
-ONE cannot write cell0
-ONE cannot write cell8
-ONE cannot write cell3
-ONE cannot write cell4
-ONE cannot write cell8
-ONE cannot write cell2
-ONE cannot write cell2
-ONE cannot write cell7
-ONE cannot write cell4
-ONE cannot write cell2
-ONE cannot write cell8
-ONE cannot write cell2
-ONE cannot write cell3
-ONE cannot write cell2
-ONE cannot write cell5
-ONE cannot write cell6
-ONE cannot write cell3
-ONE cannot write cell3
-ONE cannot write cell9
-ONE cannot write cell3
-ONE cannot write cell7
-ONE cannot write cell4
-ONE cannot write cell8
-ONE cannot write cell9
-ONE cannot write cell2
-ONE cannot write cell3
-ONE cannot write cell7
-ONE cannot write cell6
-ONE cannot write cell0
-ONE cannot write cell2
-ONE cannot write cell1
-ONE cannot write cell5
-ONE cannot write cell1
-ONE cannot write cell9
-ONE cannot write cell5
-ONE cannot write cell5
-ONE cannot write cell5
-ONE cannot write cell4
-ONE cannot write cell2
-ONE cannot write cell6
-ONE cannot write cell4
-ONE cannot write cell5
-ONE cannot write cell1
-ONE cannot write cell9
-ONE cannot write cell8
-ONE cannot write cell5
-ONE cannot write cell1
-ONE cannot write cell4
-ONE cannot write cell2
-ONE cannot write cell1
-ONE cannot write cell4
-ONE cannot write cell0
-ONE cannot write cell5
-ONE cannot write cell8
-ONE cannot write cell9
-ONE cannot write cell3
-ONE cannot write cell4
-ONE cannot write cell6
-ONE cannot write cell4
-ONE cannot write cell3
-ONE cannot write cell4
-ONE cannot write cell3
-ONE cannot write cell7
-ONE cannot write cell6
-ONE cannot write cell1
-ONE cannot write cell1
-ONE cannot write cell9
-ONE cannot write cell1
-ONE cannot write cell9
-ONE cannot write cell7
-ONE cannot write cell9
-ONE cannot write cell7
-ONE cannot write cell4
-ONE cannot write cell4
-ONE cannot write cell4
-ONE cannot write cell2
-ONE cannot write cell3
-ONE cannot write cell4
-ONE cannot write cell4
-ONE cannot write cell1
-ONE cannot write cell0
-ONE cannot write cell2
-ONE cannot write cell5
-ONE cannot write cell6
-ONE cannot write cell9
-ONE cannot write cell6
-ONE cannot write cell1
-ONE cannot write cell7
-ONE cannot write cell3
-ONE cannot write cell7
-ONE cannot write cell7
-ONE cannot write cell2
-ONE cannot write cell3
-ONE cannot write cell0
-ONE cannot write cell4
-ONE cannot write cell4
-ONE cannot write cell4
-ONE cannot write cell5
-ONE cannot write cell1
-ONE cannot write cell9
-ONE cannot write cell9
-ONE cannot write cell2
-ONE cannot write cell3
-ONE cannot write cell6
-ONE cannot write cell9
-ONE cannot write cell5
-ONE cannot write cell5
-ONE cannot write cell4
-ONE cannot write cell8
-ONE cannot write cell2
-ONE cannot write cell8
-ONE cannot write cell2
-ONE cannot write cell2
-ONE cannot write cell0
-ONE cannot write cell1
-ONE cannot write cell9
-ONE cannot write cell2
-ONE cannot write cell6
-ONE cannot write cell7
-ONE cannot write cell4
-ONE cannot write cell8
-ONE cannot write cell9
-ONE cannot write cell3
-ONE cannot write cell9
-ONE cannot write cell1
-ONE cannot write cell9
-ONE cannot write cell4
-ONE cannot write cell4
-ONE cannot write cell1
-ONE cannot write cell5
-ONE cannot write cell6
-ONE cannot write cell9
-ONE cannot write cell5
-ONE cannot write cell9
-ONE cannot write cell2
-ONE cannot write cell4
-ONE cannot write cell7
-ONE cannot write cell7
-ONE cannot write cell0
-ONE cannot write cell6
-ONE cannot write cell5
-ONE cannot write cell8
-ONE cannot write cell3
-ONE cannot write cell2
-ONE cannot write cell1
-ONE cannot write cell4
-ONE cannot write cell2
-ONE cannot write cell9
-ONE cannot write cell4
-ONE cannot write cell5
-ONE cannot write cell0
-ONE cannot write cell3
-ONE cannot write cell2
-ONE cannot write cell5
-ONE cannot write cell6
-ONE cannot write cell2
-ONE cannot write cell2
-ONE cannot write cell0
-ONE cannot write cell4
-ONE cannot write cell0
-ONE cannot write cell0
-ONE cannot write cell4
-ONE cannot write cell3
-ONE cannot write cell9
-ONE cannot write cell0
-ONE cannot write cell5
-ONE cannot write cell9
-ONE cannot write cell2
-ONE cannot write cell6
-ONE cannot write cell6
-ONE cannot write cell0
-ONE cannot write cell6
-ONE cannot write cell9
-ONE cannot write cell9
-ONE cannot write cell8
-ONE cannot write cell6
-ONE cannot write cell5
-ONE cannot write cell4
-ONE cannot write cell8
-ONE cannot write cell8
-ONE cannot write cell5
-ONE cannot write cell5
-ONE cannot write cell4
-ONE cannot write cell6
-ONE cannot write cell9
-ONE cannot write cell1
-ONE cannot write cell2
-ONE cannot write cell4
-ONE cannot write cell0
-ONE cannot write cell1
-ONE cannot write cell5
-ONE cannot write cell2
-ONE cannot write cell5
-ONE cannot write cell2
-ONE cannot write cell4
-ONE cannot write cell3
-ONE cannot write cell2
+EIGHT cannot write cell5
+EIGHT cannot write cell7
+EIGHT cannot write cell9
+EIGHT cannot write cell1
+ELEVEN cannot write cell2
+ELEVEN cannot write cell9
+ELEVEN cannot write cell2
+SIXTEEN cannot write cell3
+ELEVEN cannot write cell2
+SIXTEEN cannot write cell1ELEVEN cannot write cell9
+
+SIXTEEN cannot write cell5ELEVEN cannot write cell6
+
+ELEVEN cannot write cell7
+SIXTEEN cannot write cell2
+SIXTEEN cannot write cell6
+SIXTEEN cannot write cell9
+SIXTEEN cannot write cell9
+TWENTY cannot write cell9
+TWENTY cannot write cell5
+ONE cannot write cell4
+TWENTY cannot write cell1
+EIGHTEEN cannot write cell3
+EIGHTEEN cannot write cell3
+EIGHTEEN cannot write cell9
+THIRTEEN cannot write cell0
+THIRTEEN cannot write cell1
+THIRTEEN cannot write cell4
+TEN cannot write cell1
+ELEVEN cannot write cell6
+ELEVEN cannot write cell0
+ELEVEN cannot write cell4
+TEN cannot write cell6
+SIXTEEN cannot write cell7
+SIXTEEN cannot write cell1
+FOUR cannot write cell8
+FOUR cannot write cell3
+TWENTY cannot write cell2
+FIFTEEN cannot write cell7FOUR cannot write cell6
+
+TWO cannot write cell3TWENTY cannot write cell7
+
+FOUR cannot write cell6
+FIFTEEN cannot write cell7FOUR cannot write cell7TWENTY cannot write cell1
+
+EIGHTEEN cannot write cell0THIRTEEN cannot write cell6
+THIRTEEN cannot write cell0ELEVEN cannot write cell0
+
+THIRTEEN cannot write cell5ELEVEN cannot write cell6
+
+THIRTEEN cannot write cell6ELEVEN cannot write cell9
+
+THIRTEEN cannot write cell5ELEVEN cannot write cell4
+
+
+THIRTEEN cannot write cell2
+EIGHTEEN cannot write cell7
+EIGHTEEN cannot write cell3
+EIGHTEEN cannot write cell9
+TEN cannot write cell3THIRTEEN cannot write cell5EIGHTEEN cannot write cell9
+
+TEN cannot write cell6SIXTEEN cannot write cell2
+
+SIXTEEN cannot write cell8
+
+FIFTEEN cannot write cell8
+FIFTEEN cannot write cell7
+ELEVEN cannot write cell2
+SEVEN cannot write cell6ELEVEN cannot write cell1
+
+SEVEN cannot write cell9
+EIGHTEEN cannot write cell6
+
+EIGHTEEN cannot write cell5
+EIGHTEEN cannot write cell2
+SIXTEEN cannot write cell8
+TEN cannot write cell7
+FIFTEEN cannot write cell0
+TEN cannot write cell6
+FIFTEEN cannot write cell3
+TEN cannot write cell2
+FIFTEEN cannot write cell5
+TEN cannot write cell8
+TEN cannot write cell4
+TEN cannot write cell1
+TEN cannot write cell9
+TEN cannot write cell8
+TEN cannot write cell0
+TEN cannot write cell3
+TEN cannot write cell6
+TEN cannot write cell7
+SEVEN cannot write cell2
+EIGHTEEN cannot write cell0SEVEN cannot write cell3SEVENTEEN cannot write cell1
+
+SEVENTEEN cannot write cell1
+SIXTEEN cannot write cell0
+FIFTEEN cannot write cell3
+FIFTEEN cannot write cell4SIXTEEN cannot write cell0
+
+TEN cannot write cell6SEVEN cannot write cell0FIFTEEN cannot write cell9ELEVEN cannot write cell7
+
+SIXTEEN cannot write cell9ELEVEN cannot write cell6
+
+ELEVEN cannot write cell2SIXTEEN cannot write cell3
+
+ELEVEN cannot write cell3SIXTEEN cannot write cell2
+
+SIXTEEN cannot write cell6
+
+SIXTEEN cannot write cell0
+ELEVEN cannot write cell0SIXTEEN cannot write cell4
+
+SIXTEEN cannot write cell1EIGHTEEN cannot write cell7
+ELEVEN cannot write cell7
+
+SIXTEEN cannot write cell9
+EIGHTEEN cannot write cell0ELEVEN cannot write cell3
+THREE cannot write cell7
+
+SIXTEEN cannot write cell9EIGHTEEN cannot write cell9ELEVEN cannot write cell1THREE cannot write cell4
+
+
+THREE cannot write cell6
+SIX cannot write cell7
+
+TEN cannot write cell7
+FIFTEEN cannot write cell5ELEVEN cannot write cell1
+
+TEN cannot write cell3
+SIX cannot write cell3ELEVEN cannot write cell7FIFTEEN cannot write cell4
+
+SEVENTEEN cannot write cell0SEVEN cannot write cell4FIFTEEN cannot write cell2ELEVEN cannot write cell5
+
+FIFTEEN cannot write cell9
+
+
+SIXTEEN cannot write cell3FIFTEEN cannot write cell7
+
+EIGHTEEN cannot write cell5
+SIXTEEN cannot write cell4
+
+EIGHTEEN cannot write cell5
+TEN cannot write cell1EIGHTEEN cannot write cell7SIX cannot write cell1
+
+FIFTEEN cannot write cell0ELEVEN cannot write cell7EIGHTEEN cannot write cell9
+
+FIFTEEN cannot write cell5
+SIXTEEN cannot write cell6SIX cannot write cell1FIFTEEN cannot write cell3
+
+EIGHTEEN cannot write cell2
+SIX cannot write cell1
+EIGHTEEN cannot write cell4FIFTEEN cannot write cell1
+
+EIGHTEEN cannot write cell4SEVENTEEN cannot write cell9
+
+
+FIFTEEN cannot write cell9
+THREE cannot write cell8
+SEVENTEEN cannot write cell6
+FIFTEEN cannot write cell9
+
+EIGHTEEN cannot write cell9TWELVE cannot write cell9
+
+THREE cannot write cell2
+
+EIGHTEEN cannot write cell3
+
+SEVEN cannot write cell7
+
+SIXTEEN cannot write cell6SEVEN cannot write cell0FIFTEEN cannot write cell7THREE cannot write cell2
+
+
+ELEVEN cannot write cell6
+EIGHTEEN cannot write cell3SEVEN cannot write cell6SEVENTEEN cannot write cell1
+
+ELEVEN cannot write cell2THREE cannot write cell8
+TEN cannot write cell9SEVEN cannot write cell8
+
+SEVENTEEN cannot write cell8ELEVEN cannot write cell3
+
+TEN cannot write cell1SEVEN cannot write cell9
+
+TEN cannot write cell5
+TWELVE cannot write cell6
+ELEVEN cannot write cell3SEVENTEEN cannot write cell5
+
+SEVEN cannot write cell1
+SEVENTEEN cannot write cell0ELEVEN cannot write cell1
+
+SEVENTEEN cannot write cell2SIX cannot write cell2SIXTEEN cannot write cell0
+
+
+SEVENTEEN cannot write cell2
+
+SIX cannot write cell9ELEVEN cannot write cell5
+SIXTEEN cannot write cell6
+
+SIX cannot write cell5
+ELEVEN cannot write cell1
+FIFTEEN cannot write cell4SIXTEEN cannot write cell2ELEVEN cannot write cell2
+
+SIXTEEN cannot write cell8ELEVEN cannot write cell4
+SEVENTEEN cannot write cell3
+
+
+SIXTEEN cannot write cell7ELEVEN cannot write cell8
+
+TWELVE cannot write cell5SEVENTEEN cannot write cell8ELEVEN cannot write cell1
+
+
+TEN cannot write cell7SIXTEEN cannot write cell2
+
+
+SEVENTEEN cannot write cell5THREE cannot write cell0
+
+TWELVE cannot write cell5SIXTEEN cannot write cell0
+SEVEN cannot write cell8
+
+SEVENTEEN cannot write cell6
+SEVEN cannot write cell6THREE cannot write cell0TWELVE cannot write cell1
+SIXTEEN cannot write cell6
+
+SIX cannot write cell5
+THREE cannot write cell4TEN cannot write cell1TWELVE cannot write cell5SIXTEEN cannot write cell8
+
+SIX cannot write cell0
+
+SEVENTEEN cannot write cell5TWELVE cannot write cell5
+
+SIX cannot write cell0
+EIGHTEEN cannot write cell8TWELVE cannot write cell2
+
+SIXTEEN cannot write cell1FIFTEEN cannot write cell0SEVENTEEN cannot write cell9
+
+
+EIGHTEEN cannot write cell2
+SEVENTEEN cannot write cell6
+TWELVE cannot write cell7
+SIXTEEN cannot write cell0FIFTEEN cannot write cell6
+
+EIGHTEEN cannot write cell5ELEVEN cannot write cell5
+
+SIXTEEN cannot write cell3
+SEVENTEEN cannot write cell2
+SIXTEEN cannot write cell8
+
+
+EIGHTEEN cannot write cell0FIFTEEN cannot write cell6ELEVEN cannot write cell9TEN cannot write cell6
+
+SIX cannot write cell7SIXTEEN cannot write cell2
+
+
+ELEVEN cannot write cell4
+SEVEN cannot write cell2
+ELEVEN cannot write cell0
+
+ELEVEN cannot write cell3
+SEVEN cannot write cell9
+ELEVEN cannot write cell9
+TWELVE cannot write cell2
+EIGHTEEN cannot write cell6
+ELEVEN cannot write cell6
+TWELVE cannot write cell7
+EIGHTEEN cannot write cell8
+ELEVEN cannot write cell1
+TEN cannot write cell3
+EIGHTEEN cannot write cell9SIXTEEN cannot write cell2
+
+EIGHTEEN cannot write cell4SIXTEEN cannot write cell1
+
+SIX cannot write cell2
+EIGHTEEN cannot write cell4SIXTEEN cannot write cell2
+
+EIGHTEEN cannot write cell6
+TWELVE cannot write cell7THREE cannot write cell7
+
+TWELVE cannot write cell7
+THREE cannot write cell4
+SIX cannot write cell4
+
+SIXTEEN cannot write cell9
+SIX cannot write cell2FIFTEEN cannot write cell4
+
+SIXTEEN cannot write cell8
+THREE cannot write cell0FIFTEEN cannot write cell4SIXTEEN cannot write cell5
+
+FIFTEEN cannot write cell8SIXTEEN cannot write cell8
+
+
+FIFTEEN cannot write cell5
+ELEVEN cannot write cell0FIFTEEN cannot write cell0TWELVE cannot write cell2
+
+TWELVE cannot write cell4ELEVEN cannot write cell8
+
+SIX cannot write cell8
+TWELVE cannot write cell8
+ELEVEN cannot write cell6
+SIX cannot write cell8
+EIGHTEEN cannot write cell3
+ELEVEN cannot write cell1EIGHTEEN cannot write cell5
+
+SIX cannot write cell4
+EIGHTEEN cannot write cell3
+ELEVEN cannot write cell8
+EIGHTEEN cannot write cell4
+EIGHTEEN cannot write cell4
+SIXTEEN cannot write cell1
+SEVENTEEN cannot write cell9SIXTEEN cannot write cell8
+
+SIXTEEN cannot write cell2SEVENTEEN cannot write cell7
+
+SIX cannot write cell9
+TEN cannot write cell5
+SIX cannot write cell8
+TEN cannot write cell3SIX cannot write cell6
+
+TEN cannot write cell0SIX cannot write cell4
+
+TEN cannot write cell6SIX cannot write cell7
+
+TEN cannot write cell7SIX cannot write cell0
+
+TEN cannot write cell3SIX cannot write cell0
+
+SEVEN cannot write cell7TEN cannot write cell4SIX cannot write cell7
+
+
+SIX cannot write cell2
+THREE cannot write cell3SIX cannot write cell3
+TWELVE cannot write cell9SIX cannot write cell0
+
+SEVEN cannot write cell3SIX cannot write cell3
+
+THREE cannot write cell7
+SIX cannot write cell9
+SEVEN cannot write cell8THREE cannot write cell5
+
+SIX cannot write cell6
+SEVEN cannot write cell1THREE cannot write cell7
+
+FIFTEEN cannot write cell0
+SEVEN cannot write cell9TWELVE cannot write cell9
+
+FIFTEEN cannot write cell0
+SEVEN cannot write cell0
+TWELVE cannot write cell2FIFTEEN cannot write cell3
+
+SIXTEEN cannot write cell9
+TWELVE cannot write cell8
+SIXTEEN cannot write cell3
+FIFTEEN cannot write cell9
+SIXTEEN cannot write cell6
+SEVENTEEN cannot write cell0
+SEVEN cannot write cell0
+FIFTEEN cannot write cell2
+SIXTEEN cannot write cell2
+FIFTEEN cannot write cell5
+TWELVE cannot write cell8SIXTEEN cannot write cell7
+
+ELEVEN cannot write cell5TWELVE cannot write cell2
+
+SEVEN cannot write cell2
+ELEVEN cannot write cell4
+TWELVE cannot write cell0SEVEN cannot write cell2
+
+ELEVEN cannot write cell2
+TWELVE cannot write cell5
+ELEVEN cannot write cell2SEVEN cannot write cell8
+
+SEVENTEEN cannot write cell6
+ELEVEN cannot write cell2
+ELEVEN cannot write cell9
+FIFTEEN cannot write cell5
+SEVENTEEN cannot write cell6SIXTEEN cannot write cell5
+
+EIGHTEEN cannot write cell3
+SIXTEEN cannot write cell1FIFTEEN cannot write cell1
+
+EIGHTEEN cannot write cell0
+SIXTEEN cannot write cell4
+FIFTEEN cannot write cell6
+SEVENTEEN cannot write cell0
+SEVENTEEN cannot write cell3
+SEVEN cannot write cell1
+SEVENTEEN cannot write cell1
+SEVEN cannot write cell1
+TWELVE cannot write cell5
+EIGHTEEN cannot write cell1
+TWELVE cannot write cell9
+EIGHTEEN cannot write cell2
+
+SIXTEEN cannot write cell3TEN cannot write cell1
+
+TEN cannot write cell2SIXTEEN cannot write cell1
+
+EIGHTEEN cannot write cell7
+TEN cannot write cell0
+
+TEN cannot write cell0SEVEN cannot write cell9
+SEVENTEEN cannot write cell0
+SEVEN cannot write cell4TWELVE cannot write cell8
+
+SEVEN cannot write cell6SIXTEEN cannot write cell1
+SEVENTEEN cannot write cell3
+SIXTEEN cannot write cell1
+SEVENTEEN cannot write cell5
+SIXTEEN cannot write cell1
+SIX cannot write cell2SEVENTEEN cannot write cell0
+
+ELEVEN cannot write cell0
+FIFTEEN cannot write cell1SIXTEEN cannot write cell2
+
+ELEVEN cannot write cell1
+
+SIXTEEN cannot write cell9SEVENTEEN cannot write cell7
+
+ELEVEN cannot write cell8
+SIX cannot write cell0SEVENTEEN cannot write cell7
+FIFTEEN cannot write cell2SIX cannot write cell1
+TEN cannot write cell3
+
+EIGHTEEN cannot write cell7FIFTEEN cannot write cell9
+SIX cannot write cell8
+
+TEN cannot write cell4
+THREE cannot write cell9
+TEN cannot write cell0ELEVEN cannot write cell5
+
+FIFTEEN cannot write cell6
+SIX cannot write cell8THREE cannot write cell8TEN cannot write cell0
+
+TWELVE cannot write cell8
+THREE cannot write cell3
+
+SEVEN cannot write cell0
+TWELVE cannot write cell7SEVENTEEN cannot write cell8
+
+
+THREE cannot write cell2
+TWELVE cannot write cell3EIGHTEEN cannot write cell3
+ELEVEN cannot write cell8
+
+SEVEN cannot write cell8THREE cannot write cell9
+
+ELEVEN cannot write cell2
+SEVEN cannot write cell2
+EIGHTEEN cannot write cell8THREE cannot write cell4
+
+SEVEN cannot write cell0ELEVEN cannot write cell5
+
+EIGHTEEN cannot write cell4
+ELEVEN cannot write cell8THREE cannot write cell9
+
+EIGHTEEN cannot write cell5
+ELEVEN cannot write cell0THREE cannot write cell4
+
+EIGHTEEN cannot write cell2
+ELEVEN cannot write cell5SIXTEEN cannot write cell3
+EIGHTEEN cannot write cell8
+
+FIFTEEN cannot write cell4ELEVEN cannot write cell7
+
+THREE cannot write cell3
+
+FIFTEEN cannot write cell7ELEVEN cannot write cell6
+
+SIXTEEN cannot write cell8THREE cannot write cell4
+
+SIX cannot write cell1TEN cannot write cell7EIGHTEEN cannot write cell9
+
+SIXTEEN cannot write cell7SIX cannot write cell0
+
+THREE cannot write cell3
+ELEVEN cannot write cell9SEVENTEEN cannot write cell3SIXTEEN cannot write cell8
+
+EIGHTEEN cannot write cell6
+SEVENTEEN cannot write cell4TWELVE cannot write cell5
+
+THREE cannot write cell0EIGHTEEN cannot write cell9
+SEVENTEEN cannot write cell1SIXTEEN cannot write cell9
+
+THREE cannot write cell6
+SEVEN cannot write cell3SEVENTEEN cannot write cell6
+
+TWELVE cannot write cell6
+
+SIXTEEN cannot write cell2
+THREE cannot write cell4
+SIXTEEN cannot write cell7SEVEN cannot write cell2SEVENTEEN cannot write cell8
+
+TEN cannot write cell3
+SEVENTEEN cannot write cell7SEVEN cannot write cell1
+
+TWELVE cannot write cell6NINE cannot write cell0TEN cannot write cell1SEVENTEEN cannot write cell5
+
+FIFTEEN cannot write cell3SEVENTEEN cannot write cell4
+
+
+TEN cannot write cell6SEVENTEEN cannot write cell6
+
+ELEVEN cannot write cell5SEVEN cannot write cell5TEN cannot write cell0
+
+
+SIX cannot write cell2SEVEN cannot write cell0ELEVEN cannot write cell2
+
+SEVENTEEN cannot write cell1
+TEN cannot write cell9
+
+
+SEVENTEEN cannot write cell1THREE cannot write cell9
+
+
+SEVENTEEN cannot write cell4
+SIXTEEN cannot write cell4
+THREE cannot write cell1
+
+SIXTEEN cannot write cell9SEVENTEEN cannot write cell9THREE cannot write cell8
+
+
+THREE cannot write cell4ELEVEN cannot write cell7SIXTEEN cannot write cell3SIX cannot write cell7
+
+NINE cannot write cell6
+
+SIXTEEN cannot write cell4SEVEN cannot write cell8NINE cannot write cell2TWELVE cannot write cell4THREE cannot write cell5
+
+
+SIX cannot write cell0TEN cannot write cell2NINE cannot write cell5TWELVE cannot write cell5THREE cannot write cell7
+
+THREE cannot write cell7
+THREE cannot write cell7EIGHTEEN cannot write cell4
+
+
+TWELVE cannot write cell5EIGHTEEN cannot write cell6
+
+
+
+THREE cannot write cell0
+
+SIXTEEN cannot write cell9EIGHTEEN cannot write cell3
+
+ELEVEN cannot write cell6
+
+TWELVE cannot write cell0
+
+SIX cannot write cell7
+TWELVE cannot write cell4SIXTEEN cannot write cell1TEN cannot write cell1ELEVEN cannot write cell1
+
+EIGHTEEN cannot write cell3
+
+TEN cannot write cell0NINE cannot write cell6
+
+THREE cannot write cell1EIGHTEEN cannot write cell5
+
+SEVENTEEN cannot write cell0TEN cannot write cell0
+
+EIGHTEEN cannot write cell1NINE cannot write cell5
+TEN cannot write cell0
+SEVENTEEN cannot write cell6
+THREE cannot write cell2
+
+TEN cannot write cell6
+NINE cannot write cell4SEVENTEEN cannot write cell4
+
+TEN cannot write cell7EIGHTEEN cannot write cell8NINE cannot write cell7
+
+THREE cannot write cell1
+
+SEVEN cannot write cell7SEVENTEEN cannot write cell5EIGHTEEN cannot write cell7
+NINE cannot write cell7
+
+THREE cannot write cell5TWELVE cannot write cell2
+SEVENTEEN cannot write cell5
+
+SIX cannot write cell9NINE cannot write cell2
+
+TWELVE cannot write cell3SEVENTEEN cannot write cell3THREE cannot write cell5
+
+
+NINE cannot write cell5SIX cannot write cell5
+
+SEVENTEEN cannot write cell7
+ELEVEN cannot write cell2SEVENTEEN cannot write cell3NINE cannot write cell4
+
+
+SIXTEEN cannot write cell8
+
+ELEVEN cannot write cell5SIX cannot write cell0
+
+SIXTEEN cannot write cell8
+
+ELEVEN cannot write cell7TEN cannot write cell1SIXTEEN cannot write cell3
+
+SIX cannot write cell1EIGHTEEN cannot write cell7SEVENTEEN cannot write cell2SIXTEEN cannot write cell3
+
+
+TEN cannot write cell3
+SEVEN cannot write cell9SEVENTEEN cannot write cell9
+
+TEN cannot write cell7
+
+TEN cannot write cell5SEVENTEEN cannot write cell0
+THREE cannot write cell2
+
+TEN cannot write cell1TWELVE cannot write cell2
+
+SEVEN cannot write cell3
+THREE cannot write cell2TEN cannot write cell0
+
+NINE cannot write cell9SEVENTEEN cannot write cell4TEN cannot write cell0
+
+THREE cannot write cell5
+TEN cannot write cell8SEVENTEEN cannot write cell6
+
+
+TEN cannot write cell1TWELVE cannot write cell1
+
+SIX cannot write cell7
+SIXTEEN cannot write cell8TEN cannot write cell5THREE cannot write cell9
+
+SIX cannot write cell5
+SIXTEEN cannot write cell3THREE cannot write cell9TWELVE cannot write cell8
+
+SIX cannot write cell1
+TWELVE cannot write cell3
+EIGHTEEN cannot write cell9
+THREE cannot write cell9
+SIX cannot write cell4
+
+EIGHTEEN cannot write cell3
+EIGHTEEN cannot write cell3
+
+ELEVEN cannot write cell7EIGHTEEN cannot write cell5
+
+
+ELEVEN cannot write cell3
+EIGHTEEN cannot write cell0SEVENTEEN cannot write cell7
+
+TEN cannot write cell6
+ELEVEN cannot write cell9
+
+EIGHTEEN cannot write cell1SEVENTEEN cannot write cell8
+
+TEN cannot write cell7ELEVEN cannot write cell4
+
+SIXTEEN cannot write cell7SEVEN cannot write cell6SEVENTEEN cannot write cell0
+
+TEN cannot write cell2
+TWELVE cannot write cell6SEVENTEEN cannot write cell5TEN cannot write cell8
+
+THREE cannot write cell1SIXTEEN cannot write cell8SEVENTEEN cannot write cell4
+
+SIXTEEN cannot write cell9
+TEN cannot write cell9
+SIX cannot write cell2
+SEVENTEEN cannot write cell3FIVE cannot write cell7
+
+SIX cannot write cell1
+NINE cannot write cell2SIXTEEN cannot write cell2
+SIX cannot write cell2FIVE cannot write cell6
+
+EIGHTEEN cannot write cell1SIX cannot write cell2FIVE cannot write cell6
+
+
+ELEVEN cannot write cell9SIX cannot write cell3
+
+SEVEN cannot write cell0
+
+FIVE cannot write cell7ELEVEN cannot write cell0
+SIX cannot write cell5
+
+TWELVE cannot write cell8
+ELEVEN cannot write cell4
+
+TWELVE cannot write cell4FIVE cannot write cell9
+SEVEN cannot write cell4
+ELEVEN cannot write cell8SIX cannot write cell8
+
+FIVE cannot write cell3
+ELEVEN cannot write cell1
+TEN cannot write cell8FIVE cannot write cell1
+
+ELEVEN cannot write cell4
+SIX cannot write cell9FIVE cannot write cell6
+
+ELEVEN cannot write cell0
+SIX cannot write cell9
+
+FIVE cannot write cell8
+SEVENTEEN cannot write cell0FIVE cannot write cell3
+
+NINE cannot write cell9FIVE cannot write cell2
+ELEVEN cannot write cell6
+
+
+SIX cannot write cell4NINE cannot write cell6
+
+SEVENTEEN cannot write cell3
+TWELVE cannot write cell6SIX cannot write cell0EIGHTEEN cannot write cell7FIVE cannot write cell1
+
+NINE cannot write cell6
+
+
+TWELVE cannot write cell0TEN cannot write cell1
+
+SIX cannot write cell5SIXTEEN cannot write cell2
+
+TWELVE cannot write cell3TEN cannot write cell5
+
+SIXTEEN cannot write cell9SIX cannot write cell9
+
+TEN cannot write cell8
+SEVEN cannot write cell7
+ELEVEN cannot write cell9SIXTEEN cannot write cell4SIX cannot write cell0
+
+SEVEN cannot write cell5
+SEVENTEEN cannot write cell2SEVEN cannot write cell9
+
+
+TEN cannot write cell6SIXTEEN cannot write cell5SEVENTEEN cannot write cell1
+SIX cannot write cell9
+
+SEVEN cannot write cell0SIXTEEN cannot write cell4
+
+EIGHTEEN cannot write cell6SEVENTEEN cannot write cell9
+
+SIXTEEN cannot write cell1
+NINE cannot write cell3SEVEN cannot write cell7
+SIXTEEN cannot write cell6
+
+FIVE cannot write cell6EIGHTEEN cannot write cell6SEVEN cannot write cell1
+
+TWELVE cannot write cell4EIGHTEEN cannot write cell5
+
+
+TWELVE cannot write cell3EIGHTEEN cannot write cell9
+
+
+SEVEN cannot write cell1ELEVEN cannot write cell7EIGHTEEN cannot write cell8
+
+TEN cannot write cell7
+SIX cannot write cell1
+TEN cannot write cell0SIXTEEN cannot write cell4
+SEVEN cannot write cell0
+SIX cannot write cell3EIGHTEEN cannot write cell1
+
+SIXTEEN cannot write cell6
+
+TEN cannot write cell3EIGHTEEN cannot write cell6SIXTEEN cannot write cell2
+
+SEVENTEEN cannot write cell5FIVE cannot write cell1
+
+SIX cannot write cell0NINE cannot write cell7
+
+FIVE cannot write cell0TEN cannot write cell3
+SIX cannot write cell5
+NINE cannot write cell4SEVENTEEN cannot write cell0TEN cannot write cell6
+
+
+SIX cannot write cell0FIVE cannot write cell4
+
+SEVENTEEN cannot write cell4
+TWELVE cannot write cell4ELEVEN cannot write cell5TEN cannot write cell7
+
+
+
+SIX cannot write cell4TWELVE cannot write cell7
+
+SEVENTEEN cannot write cell3
+SEVEN cannot write cell2
+
+
+SIX cannot write cell4SEVENTEEN cannot write cell5SEVEN cannot write cell6EIGHTEEN cannot write cell5
+
+TWELVE cannot write cell2NINE cannot write cell9
+SIXTEEN cannot write cell8
+
+SEVEN cannot write cell0TWELVE cannot write cell3
+
+NINE cannot write cell4
+
+SIXTEEN cannot write cell0EIGHTEEN cannot write cell7NINE cannot write cell8
+
+FIVE cannot write cell6ELEVEN cannot write cell9
+
+
+EIGHTEEN cannot write cell8TWELVE cannot write cell7
+
+FIVE cannot write cell5TEN cannot write cell1
+
+TWELVE cannot write cell7EIGHTEEN cannot write cell0
+
+NINE cannot write cell0FIVE cannot write cell3
+
+TWELVE cannot write cell3
+
+
+SIX cannot write cell1TEN cannot write cell4
+
+NINE cannot write cell1SEVENTEEN cannot write cell5
+
+SIX cannot write cell9TWELVE cannot write cell8EIGHTEEN cannot write cell5
+TEN cannot write cell7
+SEVENTEEN cannot write cell4
+
+FIVE cannot write cell2SEVEN cannot write cell1TWELVE cannot write cell3
+EIGHTEEN cannot write cell4SEVENTEEN cannot write cell3TEN cannot write cell5
+
+FIVE cannot write cell4
+SIXTEEN cannot write cell9SEVENTEEN cannot write cell2
+
+ELEVEN cannot write cell9
+TEN cannot write cell2SEVENTEEN cannot write cell2FIVE cannot write cell1
+
+
+SIXTEEN cannot write cell5
+NINE cannot write cell7FIVE cannot write cell8
+SEVENTEEN cannot write cell3ELEVEN cannot write cell6
+
+NINE cannot write cell8
+
+NINE cannot write cell7
+
+SEVEN cannot write cell1SEVENTEEN cannot write cell5
+
+ELEVEN cannot write cell2
+
+TWELVE cannot write cell2EIGHTEEN cannot write cell4
+
+ELEVEN cannot write cell5
+TEN cannot write cell3NINE cannot write cell9TWELVE cannot write cell1
+ELEVEN cannot write cell5
+
+EIGHTEEN cannot write cell9TEN cannot write cell8
+TWELVE cannot write cell7
+
+EIGHTEEN cannot write cell8SIX cannot write cell9
+
+ELEVEN cannot write cell1
+
+SIX cannot write cell6ELEVEN cannot write cell6
+
+TEN cannot write cell3EIGHTEEN cannot write cell9
+
+ELEVEN cannot write cell0SIXTEEN cannot write cell6SIX cannot write cell5FIVE cannot write cell0
+EIGHTEEN cannot write cell9
+SIX cannot write cell4
+
+FIVE cannot write cell7
+
+EIGHTEEN cannot write cell8FIVE cannot write cell1
+
+SEVENTEEN cannot write cell5SEVEN cannot write cell6FIVE cannot write cell5
+
+
+
+SEVEN cannot write cell9
+FIVE cannot write cell5SIX cannot write cell0TWELVE cannot write cell6
+
+EIGHTEEN cannot write cell4SEVENTEEN cannot write cell3
+SEVEN cannot write cell9SIX cannot write cell0
+TWELVE cannot write cell3
+
+
+NINE cannot write cell3SEVEN cannot write cell6SIX cannot write cell7
+
+EIGHTEEN cannot write cell4TWELVE cannot write cell8
+
+SEVENTEEN cannot write cell8ELEVEN cannot write cell0
+
+TWELVE cannot write cell0
+
+SEVENTEEN cannot write cell1TWELVE cannot write cell9SIX cannot write cell9
+
+
+SIXTEEN cannot write cell9ELEVEN cannot write cell1
+
+EIGHTEEN cannot write cell3SIX cannot write cell9
+
+TEN cannot write cell1SEVENTEEN cannot write cell4EIGHTEEN cannot write cell9
+
+SIXTEEN cannot write cell1
+
+SEVENTEEN cannot write cell4SIXTEEN cannot write cell4
+
+
+FIVE cannot write cell7EIGHTEEN cannot write cell8
+
+SEVENTEEN cannot write cell4SIXTEEN cannot write cell4
+
+
+FIVE cannot write cell3SEVENTEEN cannot write cell1
+EIGHTEEN cannot write cell3
+
+NINE cannot write cell1SEVEN cannot write cell5
+
+TWELVE cannot write cell8SEVENTEEN cannot write cell6
+
+SEVEN cannot write cell3
+ELEVEN cannot write cell1FIVE cannot write cell4
+SEVEN cannot write cell4SIXTEEN cannot write cell6SEVENTEEN cannot write cell6
+
+TWELVE cannot write cell8
+FIVE cannot write cell2
+
+SIXTEEN cannot write cell4
+NINE cannot write cell9TWELVE cannot write cell4FIVE cannot write cell2
+
+
+SIXTEEN cannot write cell5SEVENTEEN cannot write cell4
+
+FIVE cannot write cell4ELEVEN cannot write cell9
+
+
+TEN cannot write cell2
+SIX cannot write cell9SIXTEEN cannot write cell5
+
+TEN cannot write cell9SEVENTEEN cannot write cell4
+
+SIXTEEN cannot write cell4SIX cannot write cell4
+
+TEN cannot write cell6SEVENTEEN cannot write cell6EIGHTEEN cannot write cell4
+
+
+SIX cannot write cell1
+
+SEVENTEEN cannot write cell5TEN cannot write cell3
+SIXTEEN cannot write cell4
+
+SEVEN cannot write cell3
+SEVENTEEN cannot write cell0
+NINE cannot write cell1TEN cannot write cell1EIGHTEEN cannot write cell8SIXTEEN cannot write cell6
+
+
+TWELVE cannot write cell0TEN cannot write cell5
+
+FIVE cannot write cell7SEVENTEEN cannot write cell9
+
+TEN cannot write cell1TWELVE cannot write cell1EIGHTEEN cannot write cell8
+
+SEVENTEEN cannot write cell2SIXTEEN cannot write cell1
+TEN cannot write cell8
+
+TWELVE cannot write cell7SIXTEEN cannot write cell1ELEVEN cannot write cell6
+
+
+SIX cannot write cell0ELEVEN cannot write cell9TEN cannot write cell7SEVENTEEN cannot write cell8
+
+
+SIXTEEN cannot write cell0
+
+SEVEN cannot write cell0
+
+SIXTEEN cannot write cell9
+FIVE cannot write cell9NINE cannot write cell8
+
+SIXTEEN cannot write cell4
+
+FIVE cannot write cell2SEVEN cannot write cell6NINE cannot write cell4
+
+TWELVE cannot write cell6
+SEVEN cannot write cell2NINE cannot write cell0
+
+FIVE cannot write cell5TEN cannot write cell0NINE cannot write cell7
+ELEVEN cannot write cell8
+
+SEVEN cannot write cell1SIX cannot write cell0TEN cannot write cell8
+
+ELEVEN cannot write cell3
+SEVEN cannot write cell7TEN cannot write cell1
+
+SEVEN cannot write cell4ELEVEN cannot write cell5SEVENTEEN cannot write cell5
+
+TEN cannot write cell3
+FOURTEEN cannot write cell9
+EIGHTEEN cannot write cell9TEN cannot write cell9SEVENTEEN cannot write cell7
+
+
+
+TEN cannot write cell7EIGHTEEN cannot write cell4FOURTEEN cannot write cell3
+
+TWELVE cannot write cell5
+
+EIGHTEEN cannot write cell6SEVENTEEN cannot write cell5
+
+FIVE cannot write cell3
+NINE cannot write cell5FIVE cannot write cell8SEVENTEEN cannot write cell8
+
+
+FIVE cannot write cell7
+SEVENTEEN cannot write cell3
+
+FIVE cannot write cell6SIX cannot write cell4
+
+SEVEN cannot write cell2SEVENTEEN cannot write cell5FIVE cannot write cell2
+SIX cannot write cell9
+
+
+FIVE cannot write cell3SIX cannot write cell4SEVEN cannot write cell2
+
+EIGHTEEN cannot write cell7
+FOURTEEN cannot write cell8
+SEVEN cannot write cell4
+TEN cannot write cell6FOURTEEN cannot write cell0
+
+FIVE cannot write cell9SEVEN cannot write cell9
+
+
+TEN cannot write cell8FOURTEEN cannot write cell1
+
+TWELVE cannot write cell0EIGHTEEN cannot write cell9
+
+FOURTEEN cannot write cell5NINE cannot write cell2
+SEVEN cannot write cell6
+EIGHTEEN cannot write cell9
+
+TEN cannot write cell3FOURTEEN cannot write cell2
+
+
+ELEVEN cannot write cell0
+
+TWELVE cannot write cell3
