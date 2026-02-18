@@ -54,7 +54,6 @@ public class CompareAndSetBasedTableManager extends TableManager {
             	return false;
             }
 
-            // Block it
             blockers[numCell] = writerId;
             abLock.set(false);
             return true;
