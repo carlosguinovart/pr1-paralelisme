@@ -18,15 +18,22 @@ public class LockBasedTableManager extends TableManager {
 	@Override
 	public boolean blockCell(int numCell, int writerId) {
 		// TODO Auto-generated method stub
-		
 		lock.lock();
-		if( inspectionTime == true || blockers[numCell] > 0 || Math.abs(blockers[numCell]) == writerId) {
+		if(inspectionTime == true) {
+			return false;
+		}
+		if (blockers[numCell] > 0) {
+			return false;
+		}
+		if(Math.abs(blockers[numCell]) == writerId) {
+			return false;
+		}
+		if((numCell & 1) != (writerId & 1)) {
 			return false;
 		}
 		blockers[numCell] = writerId;
 		lock.unlock();
 		return true;
-		
 	}
 
 	@Override
@@ -34,7 +41,7 @@ public class LockBasedTableManager extends TableManager {
 		// TODO Auto-generated method stub
 		lock.lock();
 		if(blockers[numCell] == writerId) {
-			blockers[numCell] =-writerId;
+			blockers[numCell] = -writerId;
 		}
 		lock.unlock();
 		
@@ -44,13 +51,15 @@ public class LockBasedTableManager extends TableManager {
 	public void startInspection(int inspectorId) {
 		// TODO Auto-generated method stub
 		
-		while (true) {
-			lock.lock();
-			if(inspectionTime && checkAllUnblocked() )
-				inspectorActive=true;
-			lock.unlock();
+		while(true) {
+	        lock.lock();
+			if(inspectionTime && ((inspectorId & 1) == currentInspectorParity) && checkAllUnblocked()) {
+				 inspectionTime = false;
+				 return;
+			}
+            lock.unlock();
+            Thread.onSpinWait();
 		}
-		
 	}
 
 	@Override
@@ -58,8 +67,7 @@ public class LockBasedTableManager extends TableManager {
 		// TODO Auto-generated method stub
 		lock.lock();
 		inspectionTime = false;
-		inspectorActive = false;
-		currentInspectorParity = (currentInspectorParity + 1) % 2;
+        currentInspectorParity = (currentInspectorParity + 1) % 2;
 		lock.unlock();
 		
 	}
@@ -68,15 +76,11 @@ public class LockBasedTableManager extends TableManager {
 	
 	/* private helper methods are welcome. Write them after the implementation of the abstract ones */
 	private boolean checkAllUnblocked() {
-		for(int i = 0; i<=blockers.length; i++) {
-			if(blockers[i]<0) {
+		for(int i = 0; i<blockers.length; i++) {
+			if(blockers[i]>0) {
 				return false;
 			}
 		}
 		return true;
-	}
-	
-	private boolean inspectorActive() {
-		
 	}
 }

@@ -1,0 +1,4 @@
+.classpath
+.project
+.settings/org.eclipse.core.resources.prefs
+bin/p00_Implementations_TM/LockBasedTableManager.class
